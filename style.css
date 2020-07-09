@@ -6,7 +6,14 @@ body{
 }
 .navbar-light .navbar-nav .nav-link{
      font-weight: 500;
-     font-size: 18px;
+     font-size: 16px;
+}
+.btn{
+      border-radius: 33px;
+      color: white;
+      background-color: #21B573;
+      border: none;
+      padding: 8px 30px;
 }
 .navbar-light .navbar-nav .nav-item{
      margin: 0 15px;
@@ -26,14 +33,7 @@ body{
 .t-color {
      color:rgb(33,181,115);
 }
-.button-design{
-    background-color: rgb(33,181,115);
-    color:white;
-    border-radius: 30px;
-    padding: 8px 30px;
-    border: none;
-    
-}
+
 .cat-card img {
      width: 80px
 }
@@ -46,9 +46,15 @@ body{
 .shadow {
      box-shadow: 10px 10px 10px lightgray ;
 }
+.fnt-color{
+      color:#413960;
+}
 .gap-center {
      text-align: center;
      padding-bottom: 55px;
+}
+.tbl-gap {
+      padding-top: 100px;
 }
 .footer-bg{
      background-color: #282531;
